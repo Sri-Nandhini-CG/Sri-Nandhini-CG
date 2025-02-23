@@ -1,4 +1,5 @@
-## Hi there 👋  
+## Hi, I am Sri, 👋 
+## A self-taught programmer!
 
 🚀 **Flutter Developer | Mobile App Enthusiast** 📱  
 
