@@ -7,7 +7,6 @@
 - 🔧 Experienced in **Firebase, REST APIs, Bloc & Riverpod state management**  
 - 🎨 Love designing smooth **UI/UX with Material Design & Custom Animations**  
 - 📌 **Open-source contributor & lifelong learner**  
-- 📢 **Let's collaborate!**
 - 📫 **Let's connect:** developer.srinandhini@gmail.com  
   
  ## 💻 Tech Stack  
